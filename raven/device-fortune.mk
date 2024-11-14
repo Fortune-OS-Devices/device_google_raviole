@@ -10,4 +10,4 @@ DEVICE_PACKAGE_OVERLAYS += $(DEVICE_PATH)/$(DEVICE_CODENAME)/overlay-fortune
 
 # Init
 PRODUCT_PACKAGES += \
-    init.recovery.raven.touch.rc
+    init.recovery.oriole.touch.rc
